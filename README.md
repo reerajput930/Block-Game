@@ -1,6 +1,3 @@
 # Block-Game
 
- <video width="320" height="240" controls> 
-     <source src="block-game-video.mp4" type=video/mp4>
-  
- </video>
+https://github.com/reerajput930/Block-Game/blob/01adbc5133d93775a21c77f3b0f3ff407b0d3ea0/block-game-video.mp4
