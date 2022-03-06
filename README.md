@@ -1,12 +1,11 @@
 # Block-Game
 
-Sample Game Video!
+Sample Video!
+![caption](https://github.com/reerajput930/Block-Game/blob/205d4c169eafc2dbeeec730889aebd04d1dba179/block-game-video.gif)
+
+
+Fun video of our class!
 <br>
-https://github.com/reerajput930/Block-Game/blob/01adbc5133d93775a21c77f3b0f3ff407b0d3ea0/block-game-video.mp4
-
-
-
-Fun video!
 <br>
-https://github.com/reerajput930/Block-Game/blob/176ff8f174805b7b18101319b310e61ab41bdaf9/game%20video.mp4
+![caption](https://github.com/reerajput930/Block-Game/blob/205d4c169eafc2dbeeec730889aebd04d1dba179/game%20video1.gif)
 https://github.com/reerajput930/Block-Game/blob/176ff8f174805b7b18101319b310e61ab41bdaf9/game%20video1.mp4
